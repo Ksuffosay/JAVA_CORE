@@ -1,3 +1,7 @@
+package Lesson_1;
+
+import Lesson_1.Course;
+
 public class HomeWork_1 {
 
         public static void main(String[] args) {

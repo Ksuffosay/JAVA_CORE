@@ -1,3 +1,5 @@
+package Lesson_1;
+
 public class Let {
 
     private String name;

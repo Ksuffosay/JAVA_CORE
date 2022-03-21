@@ -1,3 +1,7 @@
+package Lesson_1;
+
+import Lesson_1.Members;
+
 public class Team {
 
     String nameTeam;

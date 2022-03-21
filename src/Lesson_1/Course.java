@@ -1,3 +1,5 @@
+package Lesson_1;
+
 public class Course {
 
     Let[] lets;
